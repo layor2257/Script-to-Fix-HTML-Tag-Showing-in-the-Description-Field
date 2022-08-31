@@ -4,3 +4,4 @@ Due to some code defect, the RTE control would not be activated even after it ha
 ### Error view
 
 ![image](https://user-images.githubusercontent.com/49678841/187677032-65d313fc-d594-4848-9a0d-4ad6fb83a02c.png)
+
